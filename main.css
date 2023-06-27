@@ -45,7 +45,7 @@ html{
     text-decoration: none;
 }
 .contenedor-header header nav ul li a:hover{
-    color: #F5E8C7;
+    color: #FFF8EA;
 }
 .nav-responsive{
     background-color: #594545;
@@ -564,7 +564,7 @@ html{
     margin: 20px auto;
     padding: 10px 22px;
     font-size: 16px;
-    color: #594545;
+    color: #FFF8EA;
     position: relative;
     z-index: 10;
 }
@@ -588,8 +588,8 @@ html{
     position: absolute;
     top: 40%;
     background-color: #FFF8EA;
-    color: #815B5B;
-    padding: 20px;
+    color: #9f9f9f;
+    padding: 40px;
     max-width: 350px;
     left: 50%;
     transform: translate(-50%, -50%);
