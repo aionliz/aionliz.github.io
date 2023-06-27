@@ -58,7 +58,6 @@ html{
 /* SECCION I N I C I O */
 .inicio{
     background-color: #815B5B;
-    url(img/fondo.jpg);
     background-size: cover;
     height: 100vh;
     color: #594545;
